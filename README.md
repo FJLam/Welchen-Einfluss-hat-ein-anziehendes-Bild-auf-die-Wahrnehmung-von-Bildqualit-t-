@@ -157,7 +157,10 @@ Wenn man von 3 Sekunden für einen Durchgang ausgeht, dann benötigt man für be
 
 <hr style="border:1px solid black"> </hr>
 
-## Bla Bla
+## Im Folgenden sehen wir die Ergebnisse unseres Experiments aller Versuchspersonen zusammengefasst.
+Es sind 2 Catplots nach Verzerrungstypen aufgeteilt, wobei der Verzerrungsgrad auf der X- Achse angezeigt wird und auf der Y-Achse die Bildqualität.
+Das Bildmotiv spiegelt sich in der Farbgebung der Balken wieder.
+
 
 ## CSV Dateien einlesen
 
