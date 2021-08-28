@@ -148,7 +148,10 @@ process(pathList)
 
 ![image](example_images.PNG)
 
-### some descriptions
+### Wir haben 5 Verzerrungsstufen und 2 Verzerrungstypen
+Bei 22 Motiven ergibt sich für den ersten Durchlauf eine Anzahl von 220 Durchgänge und für den zweiten Durchlauf eine Anzahl von 22 Durchgänge.
+Wenn man von 3 Sekunden für einen Durchgang ausgeht, dann benötigt man für beide Durchläufe insgesamt 12,1 Minuten pro Beobachter.
+
 
 # 3. Ergebnisse
 
