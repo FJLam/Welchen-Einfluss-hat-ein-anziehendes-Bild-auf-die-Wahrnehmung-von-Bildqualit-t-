@@ -241,6 +241,7 @@ Diese Information erhielten wir durch die Resultate, des zweiten Durchlaufs.
 Es ergab sich, dass ein signifikanter Unterschied zwischen einem anziehenden und abstoßenden Bild besteht. 
 Dies könnten wir anhand der Grafik entnehmen, da es bei Konfidenzintervall keine Überlappung bei den Fehlerbalken gibt.
 Des Weiteren konnte eine positive Korrelation zwischen Wahrnehmung des Bildmotivs und Wahrnehmung der Bildqualität beobachtet werden. Diese Ergebnisse bestätigen unsere Erwartungen, da sie mit unserer Hypothese übereinstimmen.
+
 ## Mögliche Probleme
 Wir stellten fest, dass es hilfreich wäre, wenn man einen Durchgang widerrufen könnte, ohne einen Kompletten Neustart des Durchlaufs vorzunehmen.
 Zusätzlich wäre ein Zähler für die noch hinterbleibenden Bilder vom Vorteil, um die Motivation und Focus der Probanden zu erhöhen.
