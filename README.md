@@ -233,13 +233,27 @@ for key, value in ex.items():
 
 ![image](results_corrected.PNG)
 
-Hallo world
+Die Korrektur Erfolgte durch das Entfallen der Bilder, bei den die Probanden nicht mit unserer Erwartung übereinstimmt, ob ein Bild abstoßend oder anziehend ist.
+Diese Information erhielten wir durch die Resultate, des zweiten Durchlaufs.
 
 ## 4. Diskussion
 
-Es ergab sich, dass ein signifikanter Unterschied zwischen einem anziehenden und abstoßenden Bild besteht. Des Weiteren konnte eine positive Korrelation zwischen Wahrnehmung des Bildmotivs und Wahrnehmung der Bildqualität beobachtet werden. Diese Ergebnisse bestetigen unsere Erwartungen, da sie mit unserer Hypothese übereinstimmen.
+Es ergab sich, dass ein signifikanter Unterschied zwischen einem anziehenden und abstoßenden Bild besteht. 
+Dies könnten wir anhand der Grafik entnehmen, da es bei Konfidenzintervall keine Überlappung bei den Fehlerbalken gibt.
+Des Weiteren konnte eine positive Korrelation zwischen Wahrnehmung des Bildmotivs und Wahrnehmung der Bildqualität beobachtet werden. Diese Ergebnisse bestätigen unsere Erwartungen, da sie mit unserer Hypothese übereinstimmen.
+
 
 ## Mögliche Probleme
+Wir stellten fest, dass es hilfreich wäre, wenn man einen Durchgang widerrufen könnte, ohne einen Kompletten Neustart des Durchlaufs vorzunehmen.
+Zusätzlich wäre ein Zähler für die noch hinterbleibenden Bilder vom Vorteil, um die Motivation und Focus der Probanden zu erhöhen.
+Außerdem wäre eine Konstante Anzeige der Bewertungsnoten in Form einer Tabelle z.B.: Mean Opinion Score (MOS) für eine schneller Benotung effektiv.
+Uns ist aufgefallen, dass es unpassend ist Motive zu wählen, wo Personen abgebildet sind, da es problematisch ist diese als abstoßend oder anziehend zu bewerten.
+
+## Offene Fragen
+Da wir ein deutliches Ergebnis festgestellt haben, stellt sich für uns die Frage, ob es sich nicht auf die Tatsache zurückzuführen ist, dass beim ersten Durchlauf evtl. anstelle der Bildqualität, der Bildinhalt bewertet wurde.
+Daraus ergibt sich die Frage, wie man es am besten herausfindet und verhindern kann.
+
+
 
 
 ```python
