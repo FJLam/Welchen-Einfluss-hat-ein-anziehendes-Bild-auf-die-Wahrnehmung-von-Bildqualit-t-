@@ -8,7 +8,7 @@
 
 ### Seminar: Visuelle Wahrnehmung beim Menschen und Bildqualität - WiSe 2020/21
 
-# 1. Einleitung
+## 1. Einleitung
 
 Das Abgebildete Motiv eines Bildes, kann sich spürbar auf den Beobachter auswirken.
 Unsere Forschungsfrage war, ob die Auswirkung auch die Wahrnehmung der Bildqualität beinhaltet.
@@ -18,7 +18,7 @@ Wir haben die folgenden Hypothesen getestet:
 Beim anziehendem Bild vermindert sich die Auswirkung der Verzerrung, auf die empfundene Bildqualität.
 
 
-# 2. Experimentelles Design
+## 2. Experimentelles Design
 
 Wir haben 2 Durchläufe, beim ersten Durchlauf, sollte der Beobachter die Bildqualität bewerten von einer Skala von 1 (sehr schlecht) - 5 (sehr gut).
 Beim 2 Durchlauf bewertet der Beobachter das Bildmotiv von einer Skala 1 (abstoßend) – 5 (anziehend)
@@ -149,7 +149,7 @@ Bei 22 Motiven ergibt sich für den ersten Durchlauf eine Anzahl von 220 Durchg�
 Wenn man von 3 Sekunden für einen Durchgang ausgeht, dann benötigt man für beide Durchläufe insgesamt 12,1 Minuten pro Beobachter.
 
 
-# 3. Ergebnisse
+## 3. Ergebnisse
 
 Im Folgenden sehen wir die Ergebnisse unseres Experiments aller Versuchspersonen zusammengefasst.
 Es sind 2 Catplots nach Verzerrungstypen aufgeteilt, wobei der Verzerrungsgrad auf der X- Achse angezeigt wird und auf der Y-Achse die Bildqualität.
@@ -233,7 +233,7 @@ for key, value in ex.items():
 
 ![image](results_corrected.PNG)
 
-# 4. Diskussion
+## 4. Diskussion
 
 Es ergab sich, dass ein signifikanter Unterschied zwischen einem anziehenden und abstoßenden Bild besteht. Des Weiteren konnte eine positive Korrelation zwischen Wahrnehmung des Bildmotivs und Wahrnehmung der Bildqualität beobachtet werden. Diese Ergebnisse bestetigen unsere Erwartungen, da sie mit unserer Hypothese übereinstimmen.
 
