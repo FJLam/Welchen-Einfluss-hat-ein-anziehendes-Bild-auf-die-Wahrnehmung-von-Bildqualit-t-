@@ -6,7 +6,7 @@
 
 
 
-# Seminar: Visuelle Wahrnehmung beim Menschen und Bildqualität - WiSe 2020/21
+### Seminar: Visuelle Wahrnehmung beim Menschen und Bildqualität - WiSe 2020/21
 
 # 1. Einleitung
 
