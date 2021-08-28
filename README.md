@@ -12,13 +12,26 @@
 
 <hr style="border:1px solid black"> </hr>
 
-## bla bla
+## Das Abgebildete Motiv eines Bildes, kann sich spürbar auf den Beobachter auswirken.
+Unsere Forschungsfrage war, ob die Auswirkung auch die Wahrnehmung der Bildqualität beinhaltet.
+Um die Frage zu testen, haben wir 2 Arten von Motiven ausgesucht, die jeweils eine abstoßende oder anziehende Wirkung auf den Beobachter haben sollten.
+Diese haben wir dann auf verschiedene Stufen verzerrt (Blur, Compression) und den Versuchspersonen in Rahmen eines Rating-experiment vorgeführt.
+Wir haben die folgenden Hypothesen getestet: 
+Beim anziehendem Bild vermindert sich die Auswirkung der Verzerrung, auf die empfundene Bildqualität.
+
 
 ## 2. Experimentelles Design
 
 <hr style="border:1px solid black"> </hr>
 
-## bla bla bla
+## Wir haben 2 Durchläufe, beim ersten Durchlauf, sollte der Beobachter die Bildqualität bewerten von einer Skala von 1 (sehr schlecht) - 5 (sehr gut).
+Beim 2 Durchlauf bewertet der Beobachter das Bildmotiv von einer Skala 1 (abstoßend) – 5 (anziehend)
+In unseren Versuchsbedingungen nutzen wir keine Bildpaare, sondern nur Einzelbilder ohne Referenzbild.
+Wir haben 15 Probanden für dieses Experiment gefragt und insgesamt 22 Motive ausgewählt, davon waren 11 Motive anziehend und 11 Motive abstoßend.
+Hierbei waren unsere Unabhängigen Variable, das Bildmotiv (abstoßend- anziehend), Verzerrungsgrad (1 wenig - 5 stark) und Verzerrungstyp (Blur, Compression).
+Unsere Abhängige Variable war die Bildqualität (1 schlecht- 5 exzellent).
+
+
 
 ### Imports
 
