@@ -111,7 +111,7 @@ def compress(im, name, degree, count):
     return im_g
 ```
 
-# Reading and Processing Images
+### Reading and Processing Images
 
 
 ```python
@@ -140,7 +140,7 @@ def process(paths):
 process(pathList)
 ```
 
-# Sample Images
+### Sample Images
 
 ![image](example_images.PNG)
 
@@ -156,7 +156,7 @@ Es sind 2 Catplots nach Verzerrungstypen aufgeteilt, wobei der Verzerrungsgrad a
 Das Bildmotiv spiegelt sich in der Farbgebung der Balken wieder.
 
 
-## CSV Dateien einlesen
+### CSV Dateien einlesen
 
 
 ```python
@@ -193,7 +193,7 @@ for path in paths:
         
 ```
 
-## Daten vorbereiten
+### Daten vorbereiten
 
 
 ```python
@@ -225,11 +225,11 @@ for key, value in ex.items():
         dfo = dfo[(dfo.observer != key) | (dfo.img_num != num)]
 ```
 
-## Zusammenfassung aller Versuchspersonen
+### Zusammenfassung aller Versuchspersonen
 
 ![image](result_all.PNG)
 
-## Zusammenfassung nach Korrektur
+### Zusammenfassung nach Korrektur
 
 ![image](results_corrected.PNG)
 
