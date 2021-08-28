@@ -220,7 +220,7 @@ for key, value in ex.items():
 
 ![image](results_corrected.PNG)
 
-# 4. Ergebnisse
+# 4. Diskussion
 
 <hr style="border:1px solid black"> </hr>
 
