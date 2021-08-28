@@ -1,6 +1,6 @@
 # Welchen Einfluss hat ein anziehendes Bild auf die Wahrnehmung von Bildqualität?
 
-<hr style="border:1px solid black"> </hr>
+hr style="border:1px solid black"> </hr
 
 ## Fung-Joen Lam, Isa Wasswa Musisi, Erik Wegener
 
@@ -20,7 +20,7 @@ Wir haben die folgenden Hypothesen getestet:
 Beim anziehendem Bild vermindert sich die Auswirkung der Verzerrung, auf die empfundene Bildqualität.
 
 
-## 2. Experimentelles Design
+# 2. Experimentelles Design
 
 <hr style="border:1px solid black"> </hr>
 
