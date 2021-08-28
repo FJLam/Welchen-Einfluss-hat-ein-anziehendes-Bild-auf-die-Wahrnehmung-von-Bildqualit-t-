@@ -10,8 +10,6 @@
 
 # 1. Einleitung
 
-<hr style="border:1px solid black"> </hr>
-
 Das Abgebildete Motiv eines Bildes, kann sich spürbar auf den Beobachter auswirken.
 Unsere Forschungsfrage war, ob die Auswirkung auch die Wahrnehmung der Bildqualität beinhaltet.
 Um die Frage zu testen, haben wir 2 Arten von Motiven ausgesucht, die jeweils eine abstoßende oder anziehende Wirkung auf den Beobachter haben sollten.
@@ -21,8 +19,6 @@ Beim anziehendem Bild vermindert sich die Auswirkung der Verzerrung, auf die emp
 
 
 # 2. Experimentelles Design
-
-<hr style="border:1px solid black"> </hr>
 
 Wir haben 2 Durchläufe, beim ersten Durchlauf, sollte der Beobachter die Bildqualität bewerten von einer Skala von 1 (sehr schlecht) - 5 (sehr gut).
 Beim 2 Durchlauf bewertet der Beobachter das Bildmotiv von einer Skala 1 (abstoßend) – 5 (anziehend)
@@ -155,8 +151,6 @@ Wenn man von 3 Sekunden für einen Durchgang ausgeht, dann benötigt man für be
 
 # 3. Ergebnisse
 
-<hr style="border:1px solid black"> </hr>
-
 Im Folgenden sehen wir die Ergebnisse unseres Experiments aller Versuchspersonen zusammengefasst.
 Es sind 2 Catplots nach Verzerrungstypen aufgeteilt, wobei der Verzerrungsgrad auf der X- Achse angezeigt wird und auf der Y-Achse die Bildqualität.
 Das Bildmotiv spiegelt sich in der Farbgebung der Balken wieder.
@@ -241,9 +235,7 @@ for key, value in ex.items():
 
 # 4. Diskussion
 
-<hr style="border:1px solid black"> </hr>
-
-### Es ergab sich, dass ein signifikanter Unterschied zwischen einem anziehenden und abstoßenden Bild besteht. Des Weiteren konnte eine positive Korrelation zwischen Wahrnehmung des Bildmotivs und Wahrnehmung der Bildqualität beobachtet werden. Diese Ergebnisse bestetigen unsere Erwartungen, da sie mit unserer Hypothese übereinstimmen.
+Es ergab sich, dass ein signifikanter Unterschied zwischen einem anziehenden und abstoßenden Bild besteht. Des Weiteren konnte eine positive Korrelation zwischen Wahrnehmung des Bildmotivs und Wahrnehmung der Bildqualität beobachtet werden. Diese Ergebnisse bestetigen unsere Erwartungen, da sie mit unserer Hypothese übereinstimmen.
 
 ## Mögliche Probleme
 
