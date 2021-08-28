@@ -233,6 +233,8 @@ for key, value in ex.items():
 
 ![image](results_corrected.PNG)
 
+Hallo world
+
 ## 4. Diskussion
 
 Es ergab sich, dass ein signifikanter Unterschied zwischen einem anziehenden und abstoßenden Bild besteht. Des Weiteren konnte eine positive Korrelation zwischen Wahrnehmung des Bildmotivs und Wahrnehmung der Bildqualität beobachtet werden. Diese Ergebnisse bestetigen unsere Erwartungen, da sie mit unserer Hypothese übereinstimmen.
