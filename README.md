@@ -1,10 +1,10 @@
 # Welchen Einfluss hat ein anziehendes Bild auf die Wahrnehmung von Bildqualität?
 
-hr style="border:1px solid black"> </hr
+
 
 ## Fung-Joen Lam, Isa Wasswa Musisi, Erik Wegener
 
-<hr style="border:1px solid black"> </hr>
+
 
 # Seminar: Visuelle Wahrnehmung beim Menschen und Bildqualität - WiSe 2020/21
 
